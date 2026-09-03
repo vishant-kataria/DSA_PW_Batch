@@ -1,0 +1,1 @@
+//there was 6 questions in dpp all questions were from either gfg or leetcode so i have done the questions there so no need to do here 
