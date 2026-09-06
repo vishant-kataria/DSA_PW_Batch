@@ -1,0 +1,1 @@
+//all questions were of leetcode which are already done on leetcode total questions done on leetcode = 71 till now
